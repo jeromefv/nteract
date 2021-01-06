@@ -3302,7 +3302,16 @@
   resolved "https://registry.yarnpkg.com/@nteract/logos/-/logos-1.0.0.tgz#e17ca29f41a5282fe32fa5e4e69a5a3a9839d378"
   integrity sha512-6f675p3gzs7ZMAovzfOx+QOMNu1TGVT2aV5lPOwnPxJCM/APLpDRFcSoURwLA26CROlTTDEe10XweFzJgQ+VEQ==
 
-"@nteract/markdown@4.5.2", "@nteract/markdown@^4.5.2":
+"@nteract/markdown@4.6.0":
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/@nteract/markdown/-/markdown-4.6.0.tgz#b3032a7c6528c7b7b422f136f01e883d2550f004"
+  integrity sha512-DIeUYSRsFlHlIJ+bz/w1ln/KKtwqr9LsYZ+Uj/2t7mlmYxeEW0JRBa/E51QqCVdEepjAlpg2XqfqNgjkZiFfvw==
+  dependencies:
+    "@nteract/mathjax" "^4.0.11"
+    "@nteract/presentational-components" "^3.3.11"
+    react-markdown "^4.0.0"
+
+"@nteract/markdown@^4.5.2":
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/@nteract/markdown/-/markdown-4.5.2.tgz#a1eaa58961a26219a1e1f7beaef42d41ef06e864"
   integrity sha512-qf7kbNzYohwj0dKI0qDY8dOv4kubj6lN3KcM5Xaev433q+4iTSKIgtD6ffCC4Jryq3AqN957V1YsY9ZwBZ1GUQ==
